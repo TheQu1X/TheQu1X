@@ -29,3 +29,5 @@ I'm usually chilling, but feel free to reach out! I'll do my best to reply when 
 
 ## Stats
 [![QuiX's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheQu1X&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![QuiX's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TheQu1X&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
